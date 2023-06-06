@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hello I'm Kevin, Nice to meet you ! I'm A Fullstack developer with 5 years experience, which include management experience too.
 <!--
 **Takakode/Takakode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
