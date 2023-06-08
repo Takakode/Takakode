@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Hello I'm Kevin, Nice to meet you ! I'm A Fullstack developer with 5 years experience, which include management experience too.
+Hello I'm Kevin, Nice to meet you ! I'm A Fullstack developer from France currently living in Japan with 5 years experience, which include managment experience too.
+
+<img align="right" alt="GIF" src="https://github.com/Takakode/Takakode/blob/master/code.gif?raw=true" width="500" height="320" />
+  
 
 ## Skills
 <p>
