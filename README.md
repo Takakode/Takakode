@@ -1,8 +1,9 @@
 ### Hi there 👋
+<img alt="GIF" src="https://github.com/takakode/takakode/blob/master/code.gif?raw=true" width="500" height="320" />
 
 Hello I'm Kevin, Nice to meet you ! I'm A Fullstack developer from France currently living in Japan with 5 years experience, which include managment experience too.
 
-<img alt="GIF" src="https://github.com/Takakode/Takakode/blob/master/code.gif?raw=true" width="500" height="320" />
+
   
 
 ## Skills
